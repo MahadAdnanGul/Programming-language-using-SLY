@@ -1,0 +1,11 @@
+a = "start"
+b = 1
+c = 2.5
+d = False
+e = 0
+f = "end"
+print(a)
+print(b,c)
+print(d,e)
+print(f)
+e=5

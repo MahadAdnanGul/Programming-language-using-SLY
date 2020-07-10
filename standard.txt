@@ -1,0 +1,2 @@
+print("STANDARD OUTPUT")
+print(5.4, True, 2)

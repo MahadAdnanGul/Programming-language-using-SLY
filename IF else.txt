@@ -1,0 +1,4 @@
+israining=False
+issnowing=True
+temp=0
+IF israining==True THEN IF temp>45 THEN print("Wear lightweight raincoat") ELSEIF temp == 45 THEN print("wear lightweight raincoat") ELSE print("wear fleece and raincoat") ELSEIF issnowing !=False THEN IF temp>20 THEN print("wear soft") ELSEIF temp>=0 THEN print("wear down jacket") ELSE print("wear base layers") ELSE print("its hard") 
